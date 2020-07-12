@@ -1,11 +1,23 @@
-<div style='width:50px; height: auto'>
-  
-  ![alt text](https://raw.githubusercontent.com/mjsolidarios/mjsolidarios/master/mabuhay.svg "Mabuhay Text")
-  
-</div>
+![alt text](https://raw.githubusercontent.com/mjsolidarios/mjsolidarios/master/mabuhay.svg "Mabuhay Text")
+## Mabuhay! 🇵🇭
 
+I'm a freelance developer and a 3D Artist. I also work as a part-time instructor in our school.
 
-### Mabuhay! 🇵🇭
+### 🌱 Frameworks and tools I’m currently learning ...
+ReactJS / React Native,  Flutter, Godot, Blender3D, Substance3D
+![alt text](https://raw.githubusercontent.com/mjsolidarios/mjsolidarios/master/tools.svg "Tools")
+
+### 🔭 I’m currently working on ...
+* [React Native Search Filter](https://github.com/mjsolidarios/react-native-search-filter)
+* Brain Computer Interface Research
+* [Our College Website](https://github.com/wvsu-cict-code/cict-online)
+* [Halong Iloilo App](https://github.com/wvsu-cict-code/halong-iloilo)
+* Blender Material Haven - (Soon)
+
+### 📫 How to reach me: ...
+* Twitter [![Twitter Follow](https://img.shields.io/twitter/follow/mjsolidarios?style=social)](https://twitter.com/mjsolidarios)
+* [Art Station](https://www.artstation.com/mjsolidarios)
+
 
 <!--
 **mjsolidarios/mjsolidarios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
