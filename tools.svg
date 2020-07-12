@@ -11,9 +11,9 @@
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg1696"
    version="1.1"
-   viewBox="0 0 242.63857 33.790905"
-   height="33.790905mm"
-   width="242.63857mm">
+   viewBox="0 0 198.78104 27.683117"
+   height="27.683117mm"
+   width="198.78104mm">
   <defs
      id="defs1690" />
   <sodipodi:namedview
@@ -30,8 +30,8 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="-136.37855"
-     inkscape:cx="718.64206"
+     inkscape:cy="-136.37856"
+     inkscape:cx="681.26643"
      inkscape:zoom="0.49497475"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -52,14 +52,14 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(555.53088,-52.577086)"
+     transform="translate(555.53088,-52.577087)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <g
        id="g2249"
        inkscape:label="ink_ext_XXXXXX"
-       transform="matrix(0.22824041,0,0,-0.22824041,-431.35536,128.11493)">
+       transform="matrix(0.18698539,0,0,-0.18698539,-453.80039,114.46128)">
       <g
          id="g2251"
          transform="scale(0.1)">
@@ -73,7 +73,7 @@
     <g
        id="g2266"
        inkscape:label="ink_ext_XXXXXX"
-       transform="matrix(0.22824041,0,0,-0.22824041,-388.0633,128.11487)">
+       transform="matrix(0.18698539,0,0,-0.18698539,-418.33348,114.46123)">
       <g
          id="g2268"
          transform="scale(0.1)">
@@ -100,7 +100,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.18852244,0,0,0.18852244,-385.18063,47.150725)"
+       transform="matrix(0.15444654,0,0,0.15444654,-415.97186,48.131553)"
        id="g2327">
       <path
          id="path2288"
@@ -114,7 +114,7 @@
          style="clip-rule:evenodd;fill:#37699f;fill-rule:evenodd;stroke-width:3.43158" />
     </g>
     <g
-       transform="matrix(0.16617683,0,0,0.16617683,-558.06407,50.548263)"
+       transform="matrix(0.13613996,0,0,0.13613996,-557.60619,50.914978)"
        id="g2349">
       <path
          id="path2331"
@@ -128,7 +128,7 @@
          id="path2335" />
     </g>
     <g
-       transform="matrix(0.01322018,0,0,0.01322018,-511.28883,53.330702)"
+       transform="matrix(0.0108306,0,0,0.0108306,-519.28569,53.194484)"
        id="g2384">
       <path
          style="fill:#42a5f5;fill-opacity:0.8"
@@ -157,7 +157,7 @@
          id="path2369" />
     </g>
     <g
-       transform="matrix(0.3638149,0,0,0.3638149,-478.71432,51.050519)"
+       transform="matrix(0.29805446,0,0,0.29805446,-492.5991,51.32645)"
        id="g2430">
       <path
          style="fill:#ffffff;stroke-width:0.32"
