@@ -5,6 +5,7 @@ I'm a freelance developer and a 3D Artist. I also work as a part-time instructor
 
 ### 🌱 Frameworks and tools I’m currently learning ...
 ReactJS / React Native,  Flutter, Godot, Blender3D, Substance3D
+
 ![alt text](https://raw.githubusercontent.com/mjsolidarios/mjsolidarios/master/tools.svg "Tools")
 
 ### 🔭 I’m currently working on ...
