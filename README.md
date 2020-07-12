@@ -15,6 +15,9 @@ ReactJS / React Native,  Flutter, Godot, Blender3D, Substance3D
 * [Halong Iloilo App](https://github.com/wvsu-cict-code/halong-iloilo)
 * Blender Material Haven - (Soon)
 
+### 👯 I’m looking to collaborate for ...
+* [Flutter Iloilo Community](https://github.com/Flutter-Iloilo-Community)
+
 ### 📫 How to reach me: ...
 * Twitter [![Twitter Follow](https://img.shields.io/twitter/follow/mjsolidarios?style=social)](https://twitter.com/mjsolidarios)
 * [Art Station](https://www.artstation.com/mjsolidarios)
