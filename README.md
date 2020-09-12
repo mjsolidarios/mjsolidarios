@@ -4,7 +4,7 @@
 I'm a freelance developer and a 3D Artist. I also work as a part-time instructor in our school.
 
 ### 🌱 Frameworks and tools I’m currently learning ...
-ReactJS / React Native,  Flutter, Godot, Unreal Engine, Blender3D, Substance3D
+ReactJS,  Flutter, Godot, Unreal Engine, Blender3D, Substance3D
 
 ![alt text](https://raw.githubusercontent.com/mjsolidarios/mjsolidarios/master/tools.svg "Tools")
 
@@ -17,6 +17,7 @@ ReactJS / React Native,  Flutter, Godot, Unreal Engine, Blender3D, Substance3D
 
 ### 👯 I’m looking to collaborate for ...
 * [Flutter Iloilo Community](https://github.com/Flutter-Iloilo-Community)
+* [WVSU Campus Tour](https://github.com/wvsu-cict-code/wvsu-tour-app)
 
 ### 📫 How to reach me: ...
 * Twitter [![Twitter Follow](https://img.shields.io/twitter/follow/mjsolidarios?style=social)](https://twitter.com/mjsolidarios)
