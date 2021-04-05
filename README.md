@@ -10,15 +10,6 @@ ReactJS,  Flutter, Godot, Unity3D, Unreal Engine, Blender3D, Substance3D
 
 ### 🔭 I’m currently working on ...
 * [Baybayani Game](https://open.codecks.io/baybayani)
-* [React Native Search Filter](https://github.com/mjsolidarios/react-native-search-filter)
-* Brain Computer Interface Research
-* [Our College Website](https://github.com/wvsu-cict-code/cict-online)
-* [Halong Iloilo App](https://github.com/wvsu-cict-code/halong-iloilo)
-* Blender Material Haven - (Soon)
-
-### 👯 I’m looking to collaborate for ...
-* [Flutter Iloilo Community](https://github.com/Flutter-Iloilo-Community)
-* [WVSU Campus Tour](https://github.com/wvsu-cict-code/wvsu-tour-app)
 
 ### 📫 How to reach me: ...
 * Twitter [![Twitter Follow](https://img.shields.io/twitter/follow/mjsolidarios?style=social)](https://twitter.com/mjsolidarios)
