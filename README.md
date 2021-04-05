@@ -1,10 +1,10 @@
 ![alt text](https://raw.githubusercontent.com/mjsolidarios/mjsolidarios/master/mabuhay.svg "Mabuhay Text")
 ## Mabuhay! 🇵🇭
 
-I'm a freelance developer and a 3D Artist. I also work as a part-time instructor in our school.
+I'm a freelance developer (app/games) and a 3D Artist. I also work as a part-time instructor in our school.
 
 ### 🌱 Frameworks and tools I’m currently learning ...
-ReactJS,  Flutter, Godot, Unreal Engine, Blender3D, Substance3D
+ReactJS,  Flutter, Godot, Unity3D, Unreal Engine, Blender3D, Substance3D
 
 ![alt text](https://raw.githubusercontent.com/mjsolidarios/mjsolidarios/master/tools.svg "Tools")
 

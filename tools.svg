@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="291.13654"
+   width="331.98694"
    height="40.544949"
-   viewBox="0 0 77.029878 10.727518"
+   viewBox="0 0 87.838214 10.727518"
    version="1.1"
    id="svg1696"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="tools.svg">
   <defs
      id="defs1690" />
@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2305027"
-     inkscape:cx="426.69741"
-     inkscape:cy="89.233019"
+     inkscape:zoom="2.4610054"
+     inkscape:cx="214.90057"
+     inkscape:cy="26.48726"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34,9 +34,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1009"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0"
      units="px" />
@@ -58,7 +58,7 @@
      id="layer1"
      transform="translate(555.53088,-52.577086)">
     <g
-       transform="matrix(0.07245893,0,0,-0.07245893,-516.10918,76.557905)"
+       transform="matrix(0.07245893,0,0,-0.07245893,-505.04249,76.557905)"
        inkscape:label="ink_ext_XXXXXX"
        id="g2249">
       <g
@@ -72,7 +72,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.07245893,0,0,-0.07245893,-502.36535,76.557885)"
+       transform="matrix(0.07245893,0,0,-0.07245893,-491.55701,76.557885)"
        inkscape:label="ink_ext_XXXXXX"
        id="g2266">
       <g
@@ -102,7 +102,7 @@
     </g>
     <g
        id="g2327"
-       transform="matrix(0.05984977,0,0,0.05984977,-501.4502,50.854392)">
+       transform="matrix(0.05984977,0,0,0.05984977,-490.12516,50.854392)">
       <path
          style="clip-rule:evenodd;fill:#db933d;fill-rule:evenodd;stroke-width:3.43158"
          inkscape:connector-curvature="0"
@@ -130,7 +130,7 @@
     </g>
     <g
        id="g2384"
-       transform="matrix(0.00419698,0,0,0.00419698,-541.48546,52.816335)">
+       transform="matrix(0.00419698,0,0,0.00419698,-541.74381,52.816335)">
       <path
          id="path2361"
          d="M 381,1618 0,1237 1237.1,0 H 1999 m 0,1141.5 h -761.9 l -285.4,285.4 381,381"
@@ -159,7 +159,7 @@
     </g>
     <g
        id="g2430"
-       transform="matrix(0.11549944,0,0,0.11549944,-531.14411,52.09245)">
+       transform="matrix(0.11549944,0,0,0.11549944,-531.6608,52.09245)">
       <path
          id="path2407"
          d="m 90.133,65.7 c 0,0 -0.133,-0.818 -0.211,-0.81 l -14.843,1.43 a 2.412,2.412 0 0 0 -2.181,2.24 l -0.408,5.844 -11.483,0.82 -0.78,-5.297 A 2.433,2.433 0 0 0 57.833,67.86 H 42.167 c -1.19,0 -2.22,0.889 -2.393,2.067 L 38.993,75.223 27.51,74.404 27.102,68.56 A 2.413,2.413 0 0 0 24.921,66.32 L 10.07,64.89 C 9.993,64.883 9.937,65.702 9.86,65.702 l -0.02,3.212 12.577,2.028 0.411,5.896 a 2.431,2.431 0 0 0 2.241,2.245 l 15.815,1.128 a 2.431,2.431 0 0 0 2.568,-2.06 l 0.803,-5.45 h 11.488 l 0.804,5.45 a 2.432,2.432 0 0 0 2.565,2.06 l 15.817,-1.128 a 2.432,2.432 0 0 0 2.24,-2.245 l 0.412,-5.896 12.572,-2.037 z"
@@ -186,5 +186,10 @@
          inkscape:connector-curvature="0"
          style="fill:#414042" />
     </g>
+    <path
+       d="m -509.90865,61.022321 -1.83748,-3.090778 1.83748,-3.090778 0.8858,3.090778 z m -4.08954,-0.301604 -2.3087,-2.28979 h 3.67496 l 1.83749,3.090778 z m 0,-5.587805 3.19439,-0.800989 -1.83748,3.090778 h -3.67497 z m 4.69266,-2.318058 -4.17446,1.083679 -0.62192,1.064765 -1.25319,-0.0095 -3.06251,2.977701 3.06251,2.977703 1.25319,-0.0095 0.62192,1.064764 4.17446,1.093138 1.12129,-4.061381 -0.63137,-1.055309 0.63137,-1.055409 z"
+       id="path2"
+       style="fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke-width:0.102796"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
   </g>
 </svg>
