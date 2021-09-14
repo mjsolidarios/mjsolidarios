@@ -12,6 +12,7 @@ ReactJS,  Flutter, Godot, Unity3D, Unreal Engine, Blender3D, Substance3D
 * [Baybayani Game](https://open.codecks.io/baybayani)
 
 ### 📫 How to reach me: ...
+* [Deviant Art](https://www.deviantart.com/maxpathspotter)
 * [Art Station](https://www.artstation.com/mjsolidarios)
 * [School Email](mailto:mjsolidarios@wvsu.edu.ph)
 
