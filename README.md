@@ -1,9 +1,9 @@
 ![alt text](https://raw.githubusercontent.com/mjsolidarios/mjsolidarios/master/mabuhay.svg "Mabuhay Text")
 ## Mabuhay! 🇵🇭
 
-I'm a freelance developer (app/games) and a 3D Artist. I also work as a part-time instructor in our school.
+I'm a freelance developer (app/games) and a 3D Generalist. I also work as a part-time instructor in our school.
 
-### 🌱 Frameworks and tools I’m currently learning ...
+### 🌱 I’m currently learning ...
 ReactJS,  Flutter, Godot, Unity3D, Unreal Engine, Blender3D, Substance3D
 
 ![alt text](https://raw.githubusercontent.com/mjsolidarios/mjsolidarios/master/tools.svg "Tools")
@@ -11,7 +11,10 @@ ReactJS,  Flutter, Godot, Unity3D, Unreal Engine, Blender3D, Substance3D
 ### 🔭 I’m currently working on ...
 * [Baybayani Game](https://open.codecks.io/baybayani)
 
-### 📫 How to reach me: ...
+### 🔭 I also do 3D animations. Take a look ...
+* [Google Drive Link](https://drive.google.com/drive/folders/1lEmA0v16xJ7GVYZLfPBQYXXBORYuGQoJ?usp=sharing)
+
+### 📫 How to reach me:
 * [Deviant Art](https://www.deviantart.com/maxpathspotter)
 * [Art Station](https://www.artstation.com/mjsolidarios)
 * [School Email](mailto:mjsolidarios@wvsu.edu.ph)
