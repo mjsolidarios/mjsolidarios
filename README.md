@@ -1,10 +1,10 @@
 ![alt text](https://raw.githubusercontent.com/mjsolidarios/mjsolidarios/master/mabuhay.svg "Mabuhay Text")
 ## Mabuhay! 🇵🇭
 
-I'm a freelance developer (app/games) and a 3D Generalist. I also work as an instructor in our school.
+I'm a freelance developer (app/games) and a 3D Generalist. I also work as an instructor at our school.
 
 ### 🌱 I’m currently learning ...
-ReactJS, Flutter, Godot, Unity3D, Unreal Engine, Blender3D, Substance Designer and Painter by Adobe.
+Astro, ReactJS, Flutter, Godot, Unity3D, Unreal Engine, Blender3D, Substance Designer and Painter by Adobe.
 
 ![alt text](https://raw.githubusercontent.com/mjsolidarios/mjsolidarios/master/tools.svg "Tools")
 
