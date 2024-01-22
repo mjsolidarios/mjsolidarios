@@ -18,6 +18,7 @@ Astro, ReactJS, Flutter, Godot, Unity3D, Unreal Engine, Blender3D, Substance Des
 * [Replit](https://replit.com/@mjsolidarios)
 * [Deviant Art](https://www.deviantart.com/maxpathspotter)
 * [Art Station](https://www.artstation.com/mjsolidarios)
+* [YouTube](https://www.youtube.com/channel/UCHh1m3ZZh_vKsx1MQNj3_Jg)
 * [School Email](mailto:mjsolidarios@wvsu.edu.ph)
 
 
