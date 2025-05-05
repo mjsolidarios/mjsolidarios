@@ -15,6 +15,7 @@ Astro, ReactJS, Flutter, Godot, Unity3D, Unreal Engine, Blender3D, Substance Des
 * [Google Drive Link](https://drive.google.com/drive/folders/1lEmA0v16xJ7GVYZLfPBQYXXBORYuGQoJ?usp=sharing)
 
 ### 📫 How to reach me:
+* [Hugging Face](https://huggingface.co/mjsolidarios)
 * [Replit](https://replit.com/@mjsolidarios)
 * [Deviant Art](https://www.deviantart.com/maxpathspotter)
 * [Art Station](https://www.artstation.com/mjsolidarios)
