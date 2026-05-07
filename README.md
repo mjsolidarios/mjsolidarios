@@ -2,7 +2,7 @@
 
 ![Mabuhay](https://raw.githubusercontent.com/mjsolidarios/mjsolidarios/master/mabuhay.svg)
 
-# Mabuhay! 🇵🇭 I'm Mark Joseph
+# Mabuhay! 🇵🇭 I'm Mark
 
 **Freelance Developer · 3D Generalist · Instructor · Game Dev Enthusiast**
 
@@ -18,7 +18,7 @@
 - 🎓 Part-time instructor at **College of ICT, West Visayas State University (CICT, WVSU)** — teaching the next generation of developers
 - 🕹️ Building **[Baybayani Game](https://open.codecks.io/baybayani)** — a game celebrating Philippine culture
 - 🎨 3D Artist creating animations, characters, and environments
-- 🧠 Finishing my Master's degree focusing on **Brain Computer Interface** research at Iloilo Science and Technology University (ISAT-U)
+- 🧠 Finished my Master's degree focusing on **Brain Computer Interface** research at Iloilo Science and Technology University (ISAT-U)
 - 🌏 Based in the **Philippines** 🇵🇭
 - ⚡ Fun fact: I combine technology and Filipino heritage in my work!
 
